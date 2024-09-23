@@ -1,0 +1,72 @@
+:root{
+	--f7-theme-color:#000;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #000; /*navbar link*/
+	--f7-navbar-text-color:#000;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 5px 0;
+}
+.navbar-bg{
+	background-color: #000;
+}
+.white{
+	color: white;
+}
+.demo-card-header-pic .card-header {
+	height: 40vw;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+  }
+  .demo-card-header-pic .card-content-padding .date{
+	color: #8e8e93;
+  }
+
+  .demo-swiper .swiper-slide {
+	box-sizing: border-box;
+	border: 1px solid #ddd;
+	background: #fff;
+  }
+  
+.demo-facebook-card .card-header {
+	display: block;
+	padding: 10px;
+  }
+  .demo-facebook-card .demo-facebook-avatar {
+	float: left;
+  }
+  .demo-facebook-card .demo-facebook-name {
+	margin-left: 44px;
+	font-size: 14px;
+	font-weight: 500;
+  }
+  .demo-facebook-card .demo-facebook-date {
+	margin-left: 44px;
+	font-size: 13px;
+	color: #8e8e93;
+  }
+  .demo-facebook-card .card-footer {
+	background: #fafafa;
+  }
+  .demo-facebook-card .card-footer a {
+	color: #81848b;
+	font-weight: 500;
+  }
+  .demo-facebook-card .card-content img {
+	display: block;
+  }
+  .demo-facebook-card .card-content-padding {
+	padding: 15px 10px;
+  }
+  .demo-facebook-card .card-content-padding .likes {
+	color: #8e8e93;}
